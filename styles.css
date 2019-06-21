@@ -1,0 +1,31 @@
+*{
+ font-family: 'Alegreya SC', serif;;
+   font-size: 20px;
+ display: inline-block;
+}
+
+body{
+  background-image: url(./assets/old.jpeg);
+}
+img {
+ height: 150px;
+}
+button{
+  display: flex;
+  width: 100%;
+  background-color: transparent;
+  align-items: center;
+  flex-direction: column;
+  border: 0px;
+}
+
+article{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pro{
+
+}
